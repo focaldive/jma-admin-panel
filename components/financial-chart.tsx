@@ -16,7 +16,7 @@ export function FinancialChart() {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Financial Overview</CardTitle>
+        <CardTitle>JMA UK Overview</CardTitle>
       </CardHeader>
       <CardContent className="pb-4">
         <div className="h-[200px]">
